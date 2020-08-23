@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-20T14:31:46 IST" name="Suite" finished-at="2020-08-20T14:31:46 IST" duration-ms="61">
+    <groups>
+      <group name="checkintest">
+        <method signature="ApiTest.apiTest1()[pri:0, instance:testNG.Maven.ApiTest@146044d7]" name="apiTest1" class="testNG.Maven.ApiTest"/>
+        <method signature="AppiumTest.appiumTestt1()[pri:0, instance:testNG.Maven.AppiumTest@59717824]" name="appiumTestt1" class="testNG.Maven.AppiumTest"/>
+        <method signature="AppiumTest.appiumTestt2()[pri:0, instance:testNG.Maven.AppiumTest@59717824]" name="appiumTestt2" class="testNG.Maven.AppiumTest"/>
+        <method signature="SeleniumTest.seleniumTest1()[pri:0, instance:testNG.Maven.SeleniumTest@28c4711c]" name="seleniumTest1" class="testNG.Maven.SeleniumTest"/>
+        <method signature="SeleniumTest.seleniumTest2()[pri:0, instance:testNG.Maven.SeleniumTest@28c4711c]" name="seleniumTest2" class="testNG.Maven.SeleniumTest"/>
+      </group> <!-- checkintest -->
+      <group name="functest">
+        <method signature="ApiTest.apiTest1()[pri:0, instance:testNG.Maven.ApiTest@146044d7]" name="apiTest1" class="testNG.Maven.ApiTest"/>
+        <method signature="ApiTest.apiTest2()[pri:0, instance:testNG.Maven.ApiTest@146044d7]" name="apiTest2" class="testNG.Maven.ApiTest"/>
+        <method signature="AppiumTest.appiumTestt2()[pri:0, instance:testNG.Maven.AppiumTest@59717824]" name="appiumTestt2" class="testNG.Maven.AppiumTest"/>
+      </group> <!-- functest -->
+    </groups>
+    <test started-at="2020-08-20T14:31:46 IST" name="Test" finished-at="2020-08-20T14:31:46 IST" duration-ms="61">
+      <class name="testNG.Maven.ApiTest">
+        <test-method signature="apiTest1()[pri:0, instance:testNG.Maven.ApiTest@146044d7]" started-at="2020-08-20T14:31:46 IST" name="apiTest1" finished-at="2020-08-20T14:31:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiTest1 -->
+        <test-method signature="apiTest2()[pri:0, instance:testNG.Maven.ApiTest@146044d7]" started-at="2020-08-20T14:31:46 IST" name="apiTest2" finished-at="2020-08-20T14:31:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiTest2 -->
+      </class> <!-- testNG.Maven.ApiTest -->
+      <class name="testNG.Maven.AppiumTest">
+        <test-method signature="appiumTestt1()[pri:0, instance:testNG.Maven.AppiumTest@59717824]" started-at="2020-08-20T14:31:46 IST" name="appiumTestt1" finished-at="2020-08-20T14:31:46 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumTestt1 -->
+        <test-method signature="appiumTestt2()[pri:0, instance:testNG.Maven.AppiumTest@59717824]" started-at="2020-08-20T14:31:46 IST" name="appiumTestt2" finished-at="2020-08-20T14:31:46 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumTestt2 -->
+      </class> <!-- testNG.Maven.AppiumTest -->
+      <class name="testNG.Maven.SeleniumTest">
+        <test-method signature="seleniumTest1()[pri:0, instance:testNG.Maven.SeleniumTest@28c4711c]" started-at="2020-08-20T14:31:46 IST" name="seleniumTest1" finished-at="2020-08-20T14:31:46 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest1 -->
+        <test-method signature="seleniumTest2()[pri:0, instance:testNG.Maven.SeleniumTest@28c4711c]" started-at="2020-08-20T14:31:46 IST" name="seleniumTest2" finished-at="2020-08-20T14:31:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest2 -->
+      </class> <!-- testNG.Maven.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

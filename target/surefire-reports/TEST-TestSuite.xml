@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="1.615" tests="6" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="14"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Hari\Training\Selenium\Maven\target\test-classes;C:\Hari\Training\Selenium\Maven\target\classes;C:\Users\chitra\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\chitra\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\chitra\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\chitra\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\chitra\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\chitra\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\chitra\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\chitra\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://www.azulsystems.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Zulu\zulu-14\bin"/>
+    <property name="sun.java.command" value="C:\Users\chitra\AppData\Local\Temp\surefire16849892940783447940\surefirebooter4884457281090891485.jar C:\Users\chitra\AppData\Local\Temp\surefire16849892940783447940 2020-08-20T14-31-43_566-jvmRun1 surefire13797473959989819471tmp surefire_09419429021288993510tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Hari\Training\Selenium\Maven\target\test-classes;C:\Hari\Training\Selenium\Maven\target\classes;C:\Users\chitra\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\chitra\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\chitra\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\chitra\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\chitra\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\chitra\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\chitra\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\chitra\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\chitra"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.home" value="C:\Program Files\Zulu\zulu-14"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Hari\Training\Selenium\Maven"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="jdk.vendor.version" value="Zulu14.29+23-CA"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\chitra\AppData\Local\Temp\surefire16849892940783447940\surefirebooter4884457281090891485.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="14.0.2+12"/>
+    <property name="user.name" value="chitra"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Zulu14.29+23-CA"/>
+    <property name="localRepository" value="C:\Users\chitra\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azulsystems.com/support/"/>
+    <property name="java.io.tmpdir" value="C:\Users\chitra\AppData\Local\Temp\"/>
+    <property name="java.version" value="14.0.2"/>
+    <property name="user.dir" value="C:\Hari\Training\Selenium\Maven"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Zulu\zulu-14\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Zulu\zulu-14\bin;C:\Program Files\Maven\apache-maven-3.6.3\bin;C:\Users\chitra\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="14.0.2+12"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="58.0"/>
+  </properties>
+  <testcase name="seleniumTest1" classname="testNG.Maven.SeleniumTest" time="0.008"/>
+  <testcase name="seleniumTest2" classname="testNG.Maven.SeleniumTest" time="0.001"/>
+  <testcase name="appiumTestt1" classname="testNG.Maven.AppiumTest" time="0.003"/>
+  <testcase name="appiumTestt2" classname="testNG.Maven.AppiumTest" time="0.003"/>
+  <testcase name="apiTest1" classname="testNG.Maven.ApiTest" time="0.004"/>
+  <testcase name="apiTest2" classname="testNG.Maven.ApiTest" time="0.085"/>
+</testsuite>
